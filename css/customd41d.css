@@ -358,8 +358,7 @@ body {
   top:54px;
   right: 150px;*/
   position:relative;
-  margin-top:54px;
-  z-index: 10;
+  /*margin-top:10px;*/
   padding:10px;
   text-align: right;
   background-color:#fff;
@@ -367,22 +366,20 @@ body {
 }
 
 .logos img{
-  max-width:165px;
-  max-height:30px;
+  max-width:188px;
+  max-height:65px;
   margin:0 10px;
   display:inline-block;  
 }
 
-@media (max-width: 1200px) {
-  /*.logos{
-    position:relative;
-    margin-top:54px;
-    top:auto;
-    right:auto;
-    width:100%;
-  } */
-  
+@media (max-width: 1200px) {  
   .logos img{
-    max-width:70px 
+    max-width:80px;
+    margin:5px; 
+  }
+  
+  .logos{
+    text-align:center;
+    margin-right:0px;
   }
 }  
