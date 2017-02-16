@@ -366,7 +366,7 @@ body {
 }
 
 .logos img{
-  max-width:188px;
+  /*max-width:188px;*/
   max-height:65px;
   margin:0 10px;
   display:inline-block;  
