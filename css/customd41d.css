@@ -383,3 +383,7 @@ body {
     margin-right:0px;
   }
 }  
+
+hr.small{
+  margin:8px 0;
+}
