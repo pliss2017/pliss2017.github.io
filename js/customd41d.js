@@ -89,7 +89,6 @@ $( window ).resize(function(){
 
 function setFooter()
 {
-    console.log("tu");
     var bh = $("body").height();
     var wh = $(window).height();
     var fh = $("footer").height();

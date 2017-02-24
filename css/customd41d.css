@@ -1,3 +1,11 @@
+.block{
+  display:block;
+}
+
+.full{
+  width:100%;
+  float:left;
+}
 
 .navbar-fixed-bottom .navbar-collapse, .navbar-fixed-top .navbar-collapse, .navbar .navbar-collapse {
      max-height: 100%;
@@ -386,4 +394,8 @@ body {
 
 hr.small{
   margin:8px 0;
+}
+
+.question{
+    margin-top:5px;
 }
