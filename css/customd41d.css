@@ -399,3 +399,8 @@ hr.small{
 .question{
     margin-top:5px;
 }
+
+footer .footer-brand img{
+    max-height: 36px;
+    margin: -10px 10px 0px 10px;
+}
