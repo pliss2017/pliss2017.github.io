@@ -301,6 +301,13 @@ body {
     font-weight: bold;
     /*font-style: italic;*/
 }
+
+.pn-aff-name {
+    font-size: 18px;
+    font-weight: bold;
+    /*font-style: italic;*/
+}
+
 .pn-muted {
     margin-top: 45px;
     font-size: 11px;
