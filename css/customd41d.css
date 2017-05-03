@@ -296,9 +296,22 @@ body {
     margin-top:25px;
     text-align: justify;
 }
+
 .pn-name {
     font-size: xx-large;
     font-weight: bold;
+    /*font-style: italic;*/
+}
+
+.pn-att-name {
+    font-size: 25px;
+    font-weight: bold;
+    /*font-style: italic;*/
+}
+
+.pn-att-aff {
+    font-size: 20px;
+    /*font-weight: bold;*/
     /*font-style: italic;*/
 }
 
