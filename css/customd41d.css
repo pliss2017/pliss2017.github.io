@@ -69,6 +69,14 @@
     -o-transition: all 0.2s ease-in-out;
     transition: all 0.2s ease-in-out;
 }
+
+@media (min-width: 768px) and (max-width:1200px){
+  .navbar-inverse .navbar-nav>li>a{ 
+    font-size:14px;
+    padding: 5px;
+  }
+}
+ 
 .navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>li>a:focus, .navbar-inverse .navbar-nav>li>a:hover, .navbar-inverse .navbar-nav>.active>a:hover {
     color: #B93B2E;
     background: transparent;
